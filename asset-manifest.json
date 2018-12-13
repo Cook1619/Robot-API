@@ -1,7 +1,16 @@
 {
-  "main.css": "static/css/main.54705bc2.css",
-  "main.css.map": "static/css/main.54705bc2.css.map",
-  "main.js": "static/js/main.24995173.js",
-  "main.js.map": "static/js/main.24995173.js.map",
-  "static\\media\\SEGA.woff": "static/media/SEGA.12a3db8b.woff"
+  "main.css": "/Robot-API/static/css/main.5f658fb5.chunk.css",
+  "main.js": "/Robot-API/static/js/main.73a090f3.chunk.js",
+  "main.js.map": "/Robot-API/static/js/main.73a090f3.chunk.js.map",
+  "static/css/1.6d672b99.chunk.css": "/Robot-API/static/css/1.6d672b99.chunk.css",
+  "static/js/1.46e4e14d.chunk.js": "/Robot-API/static/js/1.46e4e14d.chunk.js",
+  "static/js/1.46e4e14d.chunk.js.map": "/Robot-API/static/js/1.46e4e14d.chunk.js.map",
+  "runtime~main.js": "/Robot-API/static/js/runtime~main.cdfdfd28.js",
+  "runtime~main.js.map": "/Robot-API/static/js/runtime~main.cdfdfd28.js.map",
+  "static/css/1.6d672b99.chunk.css.map": "/Robot-API/static/css/1.6d672b99.chunk.css.map",
+  "static/media/App.css": "/Robot-API/static/media/SEGA.12a3db8b.woff",
+  "static/css/main.5f658fb5.chunk.css.map": "/Robot-API/static/css/main.5f658fb5.chunk.css.map",
+  "index.html": "/Robot-API/index.html",
+  "precache-manifest.9254a216816370634ca66ffd68303ac7.js": "/Robot-API/precache-manifest.9254a216816370634ca66ffd68303ac7.js",
+  "service-worker.js": "/Robot-API/service-worker.js"
 }
